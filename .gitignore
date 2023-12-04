@@ -1,0 +1,14 @@
+__pycache__
+*.zip
+*.rar
+*.log
+*.bak
+*.onnx
+.vscode
+/lib/__pycache__
+/data/annotations
+/data/train2017
+/data/val2017
+/data/cropped
+/output/show_imgs
+/output/detect
