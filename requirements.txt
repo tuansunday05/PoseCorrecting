@@ -1,5 +1,4 @@
 opencv-python
-json
 numpy
 torchvision==0.8.1
 torch==1.7.0
